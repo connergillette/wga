@@ -1,14 +1,35 @@
 body {
   background-color: #b7a57a;
+  font-family: 'Encode Sans', sans-serif;
 }
 
 .main-header {
   width: 30vw;
   font-size: 70px;
   word-wrap: normal;
-  font-family: 'Encode Sans', sans-serif;
   padding-top: 30vh;
   color: #4b2e83;
+}
+
+.subheader {
+  font-size: 30px;
+  color: #4b2e83;
+}
+
+.text-container {
+  padding-top: 20vh;
+}
+
+.wga-logo {
+  height: 200px;
+  width: 200px;
+  margin-top: 17vw;
+  margin-left: 5vw;
+}
+
+p {
+  padding-top: 20px;
+  font-size: 15px;
 }
 
 .calendar-embed {
